@@ -93,5 +93,5 @@ compile_deploy(
     private_key,
     contract_text,
     "Metallic",
-    "metallic_compiled_contract.json"
+    "metallic_contract_compiled.json"
 );
